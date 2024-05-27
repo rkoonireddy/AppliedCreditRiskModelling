@@ -6,6 +6,16 @@ __pycache__/
 # C extensions
 *.so
 
+# Strealit .gitignore
+.venv/
+__pycache__/
+.DS_Store
+.streamlit/
+.env
+.idea/
+.python-version
+store/
+
 # Distribution / packaging
 .Python
 build/
