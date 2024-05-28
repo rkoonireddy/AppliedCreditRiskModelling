@@ -18,6 +18,10 @@ This repository uses the power of LLMs in predicting credit risk. The Credit Ris
 ### Setup Python environment
 Version: 3.10.13
 
+For Ubuntu 22.04.
+```bash
+sudo apt install python3-hnswlib
+```
 
 ```bash
 python -mvenv .venv
